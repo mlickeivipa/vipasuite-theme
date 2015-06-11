@@ -65,3 +65,13 @@
 	  $font-color-secondary: $color-white
 	);
 }
+
+.mlickei1-vdm-vipasuite-com {
+	@include style-theme(
+		'mlickei1-vdm',
+			#696969,
+			#454545,
+	  $color-white,
+	  $color-white
+	)
+}
